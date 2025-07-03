@@ -1,0 +1,19 @@
+// ignore files and directories
+# Ignore node_modules directory
+node_modules/
+# Ignore build output directory
+build/
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+*.env
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+tmp/
+# Ignore IDE specific files
+.idea/  
+# ignore package lock files
+package-lock.json
+# Ignore yarn lock files
