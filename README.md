@@ -14,7 +14,7 @@ To end exploitation by middlemen and transport cartels, improve farmer income, a
 - **Mobile App for Agents**: Agents manage farmer listings, aggregate small produce into bulk orders, and coordinate deliveries.
 - **Buyer Portal**: Urban buyers browse available produce, place orders, and pay via Mobile Money.
 - **Delivery Coordination**: Ethical transporters (boda/pickups) fulfill deliveries and get paid transparently.
-- **Escrow Payments**: Fair and secure payment system for farmers, agents, and delivery agents.
+- **Escrow Payments**: Fair and secure Payment system for farmers, agents, and delivery agents.
 
 ---
 
